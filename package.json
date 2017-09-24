@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MelanieWest/Node_Practice/issues"
   },
-  "homepage": "https://github.com/MelanieWest/Node_Practice#readme"
+  "homepage": "https://github.com/MelanieWest/Node_Practice#readme",
+  "dependencies": {
+    "request": "^2.82.0",
+    "twitter": "^1.7.1"
+  }
 }
